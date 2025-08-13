@@ -50,6 +50,3 @@ Click here to try the app
 Installation and Usage
 Follow these steps to run the application locally on your system:
 
-Clone this repository:
-git clone https://github.com/YOUR-USERNAME/AI_Resume_Screener.git
-cd AI_Resume_Screener
