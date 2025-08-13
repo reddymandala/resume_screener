@@ -30,7 +30,7 @@ st.set_page_config(page_title="Hirebie Resume Screener", layout="wide")
 with st.sidebar:
     st.image("https://i.ibb.co/9m8T5ggT/hirebie-logo.png", width=200)
     st.markdown("### Hirebie Resume Screener")
-    st.markdown("Developed by Sai Sarthak Sadangi")
+    st.markdown("Developed by Sri charith Reddy")
     st.markdown("---")
     st.markdown(
         "1. Upload multiple resumes (.pdf or .docx)\n"
